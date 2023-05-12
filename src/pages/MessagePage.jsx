@@ -1,5 +1,4 @@
 import React from 'react'
-import empty from '../img/empty'
 const MessagePage = () => {
   return (
     
